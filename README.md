@@ -6,6 +6,10 @@ To be fed information from [Udacit's Self Driving Car Simulator v1](https://gith
 # Environment
 ```
 conda create --name carenv
+<<<<<<< HEAD
+=======
+conda activate carenv
+>>>>>>> 2eb86418a0bc7c52706c39e60764d71e45b3ac03
 conda install -c anaconda flask
 conda install -c anaconda pillow
 conda install -c anaconda numpy
